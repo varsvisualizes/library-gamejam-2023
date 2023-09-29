@@ -7,15 +7,15 @@ All the programs used for the event will be free, so our members can use them wi
 
 Browser-based:
 
-* [Twine] (https://twinery.org/)
-* [MicroStudio] (https://microstudio.dev/)
-* [Scratch] (https://scratch.mit.edu/?ref=create-learn.us)
-* [GameFroot] (https://make.gamefroot.com/)
-* [Bitsy] (https://bitsy.org/)
+* [Twine](https://twinery.org/)
+* [MicroStudio](https://microstudio.dev/)
+* [Scratch](https://scratch.mit.edu/?ref=create-learn.us)
+* [GameFroot](https://make.gamefroot.com/)
+* [Bitsy](https://bitsy.org/)
 
 Downloadable software:
 
-* [Ren'Py] (https://www.renpy.org/)
-* [GameMaker] (https://gamemaker.io/en)
-* [Godot] (https://godotengine.org/)
-* [Undum] (https://idmillington.github.io/undum/)
+* [Ren'Py](https://www.renpy.org/)
+* [GameMaker](https://gamemaker.io/en)
+* [Godot](https://godotengine.org/)
+* [Undum](https://idmillington.github.io/undum/)
